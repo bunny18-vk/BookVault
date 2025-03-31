@@ -1,0 +1,38 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #003366; /* Dark blue */
+    padding: 15px 50px;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    width: 50px;
+    margin-right: 10px;
+  }
+  
+  .logo h2 {
+    color: white;
+    font-size: 22px;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin-left: 20px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
